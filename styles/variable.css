@@ -1,0 +1,61 @@
+/* @import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500&family=PT+Sans&display=swap"); */
+
+:root {
+    --primary: #52284F;
+    --secondary: #F0BF35;
+    --tertiary: #341907;
+    --textcolor: #22272F;
+    --success: #1E601E;
+    --error: #781C1C;
+    --warning: #795E0E;
+    --gray: #616568;
+    --tertiary-fade: #0F2E4D;
+    --primary-fade: #5F275B;
+    --black: #000000;
+    --textcolor: #ffffff;
+    
+
+    --line-height: 19px;
+    --height-size-md:  18.7rem;
+
+    --font-size-xs:14px;
+    --font-size-sm:16px;
+    --font-size-md:22px;
+    --font-size-lg:24px;
+    --font-size-xl:28px;
+    --font-size-xxl:32px;
+    --font-size-footer:14px;
+    
+    --font-family: “Inter”, sans-serif;
+    --font-family: “Mulish”, sans-serif;
+    --font-family: “Nunito Sans”, sans-serif;
+
+    --header-height-sm:50px;
+    --header-height-md:75px;
+    --header-height-lg:100px;
+
+    --image-height-sm:25px;
+    --image-height-md:30px;
+    --image-height-lg:35px;
+    --image-height-xl:40px;
+    --image-height-xxl:45px;
+    --image-height-xxxl:85px;
+
+    --list-font-size-sm:14px;
+    --list-font-size-md:17px;
+    --list-font-size-lg:20px;
+
+    --link-margin-sm:10px;
+    --link-margin-md:15px;
+    --link-margin-lg:20px;
+
+    --text-fontSize-sm:10px;
+    --text-fontSize-md:14px;
+    --text-fontSize-lg:16px;
+    --text-fontSize-xl:24px;
+
+    --height-size-sm: 195px;
+    --height-size-md: 205px;
+    --height-size-lg: 215px;
+
+}
